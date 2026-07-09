@@ -1,4 +1,4 @@
-# Databricks Lakehouse project
+# Databricks Data Lakehouse Project
 
 Welcome to the **Databricks Data Lakehouse Project** by **Data With Baraa**.
 
